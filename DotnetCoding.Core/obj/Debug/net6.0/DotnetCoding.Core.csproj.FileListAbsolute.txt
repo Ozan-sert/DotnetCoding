@@ -1,0 +1,12 @@
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/bin/Debug/net6.0/DotnetCoding.Core.deps.json
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/bin/Debug/net6.0/DotnetCoding.Core.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/bin/Debug/net6.0/DotnetCoding.Core.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.csproj.AssemblyReference.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.AssemblyInfoInputs.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.AssemblyInfo.cs
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.csproj.CoreCompileInputs.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/refint/DotnetCoding.Core.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/DotnetCoding.Core.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Core/obj/Debug/net6.0/ref/DotnetCoding.Core.dll

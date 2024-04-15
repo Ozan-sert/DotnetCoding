@@ -1,0 +1,15 @@
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/bin/Debug/net6.0/DotnetCoding.Services.deps.json
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/bin/Debug/net6.0/DotnetCoding.Services.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/bin/Debug/net6.0/DotnetCoding.Services.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/bin/Debug/net6.0/DotnetCoding.Core.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/bin/Debug/net6.0/DotnetCoding.Core.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.csproj.AssemblyReference.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.AssemblyInfoInputs.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.AssemblyInfo.cs
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.csproj.CoreCompileInputs.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.csproj.CopyComplete
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/refint/DotnetCoding.Services.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/DotnetCoding.Services.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Services/obj/Debug/net6.0/ref/DotnetCoding.Services.dll

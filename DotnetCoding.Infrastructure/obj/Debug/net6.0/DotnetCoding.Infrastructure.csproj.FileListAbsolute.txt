@@ -1,0 +1,17 @@
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/bin/Debug/net6.0/DotnetCoding.Infrastructure.deps.json
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/bin/Debug/net6.0/DotnetCoding.Infrastructure.runtimeconfig.json
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/bin/Debug/net6.0/DotnetCoding.Infrastructure.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/bin/Debug/net6.0/DotnetCoding.Infrastructure.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/bin/Debug/net6.0/DotnetCoding.Core.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/bin/Debug/net6.0/DotnetCoding.Core.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.csproj.AssemblyReference.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.AssemblyInfoInputs.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.AssemblyInfo.cs
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.csproj.CopyComplete
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/refint/DotnetCoding.Infrastructure.dll
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.pdb
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/DotnetCoding.Infrastructure.genruntimeconfig.cache
+/Users/ozansert/Desktop/School/DOTNET- TRAINING/RiderProjects/DotnetCoding/DotnetCoding.Infrastructure/obj/Debug/net6.0/ref/DotnetCoding.Infrastructure.dll
